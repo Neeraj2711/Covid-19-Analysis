@@ -1,4 +1,4 @@
-                                                     Covid-19 Analysis | Python, Tableau
+#Covid-19 Analysis | Python, Tableau
 
 
 This project is based on analyzing Covid-19 cases across the world, taken from Wikipedia, using Python and Tableau. I preprocessed, cleaned and prepared the data for analysis after downloading the data from Wikipedia using Pandas and the Request library of Python. I collected the data by web scraping with read_html function of the Request library. After getting the require data, I proceeded with cleaning the data, filling up values and discarding values that were not relevant to my analysis. Finally, I exported the cleaned dataset to tableau, where I created a dashboard displaying metrics such as Total Cases, Total Recoveries and Total Deaths due to Covid-19 across the world.
